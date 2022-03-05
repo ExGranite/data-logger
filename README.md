@@ -1,6 +1,6 @@
-# Data Logger System Using DHT11
+# Data Logger System Using DHT11 and Arduino Uno R3
 
-### Software Used for Simulation:
+### Software(s) Used for Simulation:
 - [Proteus](https://www.labcenter.com/)
 - [LabVIEW](https://www.ni.com/en-us/shop/software/products/labview.html)
 - [Arduino IDE](https://www.arduino.cc/en/software)
